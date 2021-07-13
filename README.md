@@ -11,5 +11,5 @@ These are my last creations
 2. Fun Memer Website 
 
 🔗 Links 
-BOT - [Top.gg](https://top.gg/bot/818182692452958259)
+BOT - [Top.gg](https://top.gg/bot/818182692452958259)  
 SITE - [FUN-MEMER.GQ](https://fun-memer.gq)

@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, here Gabry 👋
+---------------------------
 
-<!--
-**Gabry-76/Gabry-76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm developer of discord bots and websites  
+ I know many languages like JavaScript, TypeScript, C#, Python and basics languages HTML, CSS  
 
-Here are some ideas to get you started:
+#### My Creations 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are my last creations  
+1. Fun Memer - The most easy-to-use fun bot
+2. Fun Memer Website 
+
+🔗 Links 
+BOT - [Top.gg](https://top.gg/bot/818182692452958259)
+SITE - [FUN-MEMER.GQ](https://fun-memer.gq)

@@ -1,12 +1,12 @@
 ### Hi there, here Gabry 👋
 ---------------------------
 
- I'm developer of discord bots and websites  
- I know many languages like JavaScript, TypeScript, C#, Python and basics languages HTML, CSS  
+🎊 I'm developer of discord bots and websites  
+🔰 I know many languages like JavaScript, TypeScript, C#, Python and basics languages HTML, CSS  
 
-#### My Creations 
+#### My Creations 🎯
 
-These are my last creations  
+✌️ These are my last creations  
 1. Fun Memer - The most easy-to-use fun bot
 2. Fun Memer Website 
 

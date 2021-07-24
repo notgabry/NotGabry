@@ -1,4 +1,4 @@
-### Hi there, here Gabry 👋
+### Hi, here Gabry 👋
 ---------------------------
 
 🎊 I'm developer of discord bots and websites  

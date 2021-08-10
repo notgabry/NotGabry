@@ -7,7 +7,7 @@
 #### My Creations 🎯
 
 ✌️ These are my last creations  
-1. Fun Memer - The most easy-to-use fun bot
+1. Fun Memer - The most powerful Fun Bot
 2. Fun Memer Website 
 
 🔗 Links  

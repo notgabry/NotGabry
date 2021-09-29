@@ -19,7 +19,6 @@ I have some cool projects.
 <div align="center">
   
 ## Languages 🗺
-<div style="border-radius: 7px;">
 <i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"></i>
 <i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"></i>
 <i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"></i>
@@ -27,4 +26,10 @@ I have some cool projects.
 <i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"></i>
 <i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"></i>
 </div>
+
+<div align="center">
+
+## BackEnd Dev
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"></i>
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"></i>
 </div>

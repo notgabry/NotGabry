@@ -29,7 +29,18 @@ I have some cool projects.
 
 <div align="center">
 
-## BackEnd Dev
+## BackEnd Dev 🧱
 <i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"></i>
 <i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"></i>
+<i><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="50"></i>
 </div>
+
+<div align="center">
+
+## Tools ⚔
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50"></i>
+<i><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="50"></i>
+<i><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"></i>
+<i><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="50"></i>
+<i><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"></i>
+<i><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="50"></i>

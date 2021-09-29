@@ -1,15 +1,27 @@
-### Hi, here Gabry 👋
----------------------------
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+<div align="center">
 
-🎊 I'm developer of discord bots and websites  
-🔰 I know many languages like JavaScript, TypeScript, C#, Python and basics languages HTML, CSS  
+## Hi, i'm Gabry 😀
 
-#### My Creations 🎯
+I'm an italian developer of 14 years old.  
+I know multiples languages.  
+I have some cool projects.  
+</div>
 
-✌️ These are my last creations  
-1. Fun Memer - The most powerful Fun Bot
-2. Fun Memer Website 
+<div align="center">
+  
+## Tools ⚔
+</div>
 
-🔗 Links  
-BOT - [Top.gg](https://top.gg/bot/818182692452958259)  
-SITE - [FUN-MEMER.GQ](https://fun-memer.gq)
+<div align="center">
+  
+## Languages 🗺
+<div style="border-radius: 7px;">
+<i class="programming lang-javascript"></i>
+<i class="programming lang-csharp"></i>
+<i class="programming lang-python"></i>
+<i class="programming lang-typescript"></i>
+<i class="programming lang-html"></i>
+<i class="programming lang-css"></i>
+</div>
+</div>

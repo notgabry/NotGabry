@@ -1,4 +1,4 @@
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
 <div align="center">
 
 ## Hi, i'm Gabry 😀

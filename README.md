@@ -10,18 +10,21 @@ I have some cool projects.
 
 <div align="center">
   
-## Tools ⚔
+## Database 📅
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"></i>
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"></i>
+<i><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"></i>
 </div>
 
 <div align="center">
   
 ## Languages 🗺
 <div style="border-radius: 7px;">
-<i style="background-image: url('languages/javascript.png')"></i>
-<i class="programming lang-csharp"></i>
-<i class="programming lang-python"></i>
-<i class="programming lang-typescript"></i>
-<i class="programming lang-html"></i>
-<i class="programming lang-css"></i>
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"></i>
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"></i>
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"></i>
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"></i>
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"></i>
+<i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"></i>
 </div>
 </div>

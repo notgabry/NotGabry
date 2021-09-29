@@ -17,7 +17,7 @@ I have some cool projects.
   
 ## Languages 🗺
 <div style="border-radius: 7px;">
-<i class="programming lang-javascript"></i>
+<i style="background-url: url('languages/javascript.png')"></i>
 <i class="programming lang-csharp"></i>
 <i class="programming lang-python"></i>
 <i class="programming lang-typescript"></i>

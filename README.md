@@ -10,7 +10,7 @@ I have some cool projects.
 
 <div align="center">
   
-## Database 📅
+## Databases 📅
 <i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"></i>
 <i><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"></i>
 <i><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"></i>

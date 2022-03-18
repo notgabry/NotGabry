@@ -4,8 +4,7 @@
 ### Hi, I'm Gabry 😀
 I'm an italian developer of 14 years old.  
 I know multiples languages.  
-Here My [Site](https://gabry.cf)
-    
+And this is my GitHub    
   </div>
 </div>
 

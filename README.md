@@ -10,7 +10,7 @@ And this is my GitHub
 
 <hr> 
 <div align="right"> 
-  <a href="https://gabry.cf" target="_blank"><img width="450vh" src="https://github-readme-stats.vercel.app/api?username=Gabry-76&theme=dracula&show_icons=true&hide=contribs,prs&width=5000px"></a>
+  <a href="https://gabry.cf" target="_blank"><img width="450vh" src="https://github-readme-stats.vercel.app/api?username=NotGabry&theme=dracula&show_icons=true&hide=contribs,prs&width=5000px"></a>
 </div>
 
 <hr>

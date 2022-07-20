@@ -3,8 +3,7 @@
     
 ### Hi, I'm Gabry 😀
 I'm an italian developer of 14 years old.  
-I know multiples languages.  
-And this is my GitHub    
+This is all i know of myself (maybe).
   </div>
 </div>
 

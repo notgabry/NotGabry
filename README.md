@@ -15,5 +15,5 @@ This is all i know of myself (maybe).
 <hr>
 
 <div align="left">
-  <a href="https://discord.com/users/683423964227436576" target="_blank"><img src="https://lanyard.cnrad.dev/api/683423964227436576?idleMessage=Watching My Life In My Bed...&bg=282a36&border=10px"></a>
+  <a href="https://discord.com/users/683423964227436576" target="_blank"><img src="https://lanyard.cnrad.dev/api/683423964227436576?idleMessage=Watching+My+Life+In+My+Bed...&bg=282a36&border=10px"></a>
 </div>

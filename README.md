@@ -1,9 +1,10 @@
 <div align="left">
   <div>
     
-### Hi, I'm Gabry 😀
-I'm an italian developer of 14 years old.  
-This is all i know of myself (maybe).
+## ✨ Hi, I'm Gabry 
+🥤︲ I'm an italian developer of 15 years old.  
+🥂︲ I'm currently learning Go.  
+💡︲ Looking for new ideas everyday. 
   </div>
 </div>
 

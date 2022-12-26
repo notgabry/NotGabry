@@ -16,5 +16,5 @@
 <hr>
 
 <div align="left">
-  <a href="https://discord.com/users/683423964227436576" target="_blank"><img src="https://lanyard.cnrad.dev/api/683423964227436576?idleMessage=Watching+My+Life+In+My+Bed...&bg=191724&border=10px"></a>
+  <a href="https://discord.com/users/683423964227436576" target="_blank"><img src="https://lanyard.cnrad.dev/api/683423964227436576?idleMessage=Watching+My+Life+In+My+Bed...&bg=191724&border=5px"></a>
 </div>

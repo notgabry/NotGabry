@@ -2,7 +2,7 @@
   <div>
     
 ## ✨ Hi, I'm Gabry 
-🥤︲ I'm an italian developer of 15 years old.  
+🥤︲ I'm a 15 years old italian developer.  
 🥂︲ I'm currently learning Go.  
 💡︲ Looking for new ideas everyday. 
   </div>

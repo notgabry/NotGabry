@@ -1,6 +1,6 @@
 <div align="center">
     
-## ✨ Hi, I'm Gabry 
+#✨ Hi, I'm Gabry 
 🥤︲ I'm a 15 years old italian developer.  
 💡︲ Looking for new ideas everyday.   
 🥂︲ I'm currently learning Go.  
